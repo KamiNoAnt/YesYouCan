@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 968,
+    "height": 1291,
+    "isRotated": false,
+    "originalWidth": 968,
+    "originalHeight": 1901
+  },
+  "imagePath": "image-targets/CanCut_luminance.png",
+  "metadata": null,
+  "name": "CanCut",
+  "resources": {
+    "originalImage": "CanCut_original.png",
+    "croppedImage": "CanCut_cropped.png",
+    "thumbnailImage": "CanCut_thumbnail.png",
+    "luminanceImage": "CanCut_luminance.png"
+  },
+  "created": 1795186900469,
+  "updated": 1795187293100
+}
